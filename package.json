@@ -1,0 +1,23 @@
+{
+  "name": "Baidu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baidu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liwenroul/Baidu.git"
+  },
+  "keywords": [],
+  "author": "Liwenroul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liwenroul/Baidu/issues"
+  },
+  "homepage": "https://github.com/Liwenroul/Baidu#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
