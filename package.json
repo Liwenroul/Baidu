@@ -1,0 +1,27 @@
+{
+  "name": "Baidu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baidu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liwenroul/Baidu.git"
+  },
+  "keywords": [],
+  "author": "Liwenroul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liwenroul/Baidu/issues"
+  },
+  "homepage": "https://github.com/Liwenroul/Baidu#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}

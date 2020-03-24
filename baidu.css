@@ -1,0 +1,68 @@
+body{
+    background-image: url("./images/1.png");
+    width:100%;
+    height: 100%;
+}
+#zhuce{
+    width: 442px;
+    height: 478px;
+    background-color:#f0eff1;
+    opacity: 0.85;
+    border-radius: 10px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+#zhuce label{
+    width:44px;
+    height:40px;
+    font-size: 14px; 
+    color:#5b5d5b;
+    text-align: center;
+    line-height: 40px;
+    /* background-color: red; */
+}
+#userName,#tel,#pwd{
+    width:344px;
+    height:40px;
+    border-radius: 5px;
+    border:1px solid #e0e0e0;
+    background-color: white;
+    opacity: 1;
+    margin-left: 12px;
+    padding-left:10px;
+}
+#yz{
+    width:204px;
+    height:40px;
+    border-radius: 5px;
+    border:1px solid #e0e0e0;
+    background-color: white;
+    opacity: 1;
+    margin-left: 12px; 
+    padding-left:10px;
+}
+#getyz{
+    width: 122px;
+    height: 40px; 
+    margin-left: 10px;
+    border-radius: 5px;
+    border:1px solid #e0e0e0;
+    background-color: white;
+    opacity: 1;
+}
+#getin{
+    width: 400px;
+    height: 50px; 
+    border-radius: 25px;
+    color:white;
+    background-color: #b6cefd;
+    border: 0px;
+    text-align: center;
+    line-height: 50px;
+}
+#userMsg,#telMsg,#pwdMsg,#yzMsg{
+    height: 20px;
+    color: red;
+    font-size: 12px;
+    padding-left: 60px;
+}
